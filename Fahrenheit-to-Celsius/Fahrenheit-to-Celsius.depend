@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612184758 source:c:\users\dharm\onedrive\desktop\desktop folder\c-c++ programming\ansi c\fahrenheit-to-celsius\main.c
+	<stdio.h>
+	<stdlib.h>
+
